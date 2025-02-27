@@ -1,4 +1,4 @@
-# Medical Imaging | Computer Vision | Machine Learning | NLP
+# Computer Research
 
 # Education 
 Bachelor's in Electronics, Communication and Information Engineering

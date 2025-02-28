@@ -39,17 +39,23 @@
 
 ### Articles 
 [EEG-GNN paper Analysis](https://medium.com/@shirshakacharya/basic-overview-of-research-paper-eeg-gnn-4ad232260a70)
+
 [Part Of Speech (POS)Tagging, Hidden Markov Models and Viterbi Algorithm](https://medium.com/@shirshakacharya/part-of-speech-pos-tagging-hidden-markov-models-and-viterbi-algorithm-e06d0f21b638)
+
 [Sentiment Analysis with Naive Bayes Classifier](https://medium.com/@shirshakacharya/sentiment-analysis-with-naive-bayes-classifier-d787051d7aca)
+
+---
 
 ### Certifications
 [Practical Data Science on AWS Cloud - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/GDT9UJRTCS5K)
+
 [Machine Learning - Coursera](https://www.coursera.org/account/accomplishments/certificate/LQ9QJE62V8W4)
+
 [Machine Learning Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/RCULBAPGEA6A)
+
 [Deep Learning Specialization - Coursera](https://www.credly.com/badges/7b5b6136-1d5a-42ee-a04b-fd92d22be1e4?source=linked_in_profile)
 
 
-### 
 ---
 
 # Education 

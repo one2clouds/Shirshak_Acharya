@@ -19,7 +19,7 @@
 - [Medical Image Segmentation on 2D Images X-Ray Images : Lung Segmentation](https://drive.google.com/file/d/1KwKuywdhkvq7t1DnQKDtBUGCMj94t76Y/view?usp=sharing) & [Code](https://github.com/one2clouds/2D-Image-Semantic-Segmentation)
 - [3D Liver Tumor Segmentation using Library : Monai](https://github.com/one2clouds/3D-Liver-Tumor-Segmentation-Using-Monai)
 - [Worked on Lung Infection Diagnosis using Chest X-Ray images](https://drive.google.com/file/d/1VRl4UV-cXg18MtkaI2u538DKcYQIwcC1/view?usp=sharing) & [Code](https://github.com/one2clouds/Using-CNNs-for-the-lung-disease-from-Chest-X-ray-Images/blob/main/lung-disease-classification-pytorch.ipynb)
-- Utilized libraries like MONAI and frameworks such as PyTorch Lightning, Hydra, and Lightning Hydra Code Links : [1_UNet_Segmentation_Model_with_Lightning_Hydra_](https://github.com/one2clouds/Anatomical_Segmentation_Model_Pengwin_Lightning_Hydra), [2_SpleenSegmentation with Monai & Pytorch Lightning](https://github.com/one2clouds/3d-spleen-monai-pt-lightning), [3_Liver_Tumor_Segmentation_using_MONAI](https://github.com/one2clouds/3D-Liver-Tumor-Segmentation-Using-Monai)
+- Utilized libraries like MONAI and frameworks such as PyTorch Lightning, Hydra, and Lightning Hydra Code Links : [UNet_Segmentation_Model_with_Lightning_Hydra](https://github.com/one2clouds/Anatomical_Segmentation_Model_Pengwin_Lightning_Hydra), [SpleenSegmentation with Monai & Pytorch Lightning](https://github.com/one2clouds/3d-spleen-monai-pt-lightning), [Liver_Tumor_Segmentation_using_MONAI](https://github.com/one2clouds/3D-Liver-Tumor-Segmentation-Using-Monai)
 - [Explored AFTer-UNet architecture for 3D segmentation](https://github.com/one2clouds/AFTer-UNet-Architecture)
 
 #### AI Fellow @ Fusemachines
@@ -27,7 +27,7 @@
 - Hands -on ML concepts and Algorithms like Linear Regression,Logistic Regression,Decision Trees, Ensemble Methods,Probabilistic Methods,Clustering, Dimensionality Reduction, Time Series Analysis and Reinforcement Learning
 - Hands-on Deep Learning concepts and Algorithms like CNN,RNN,LSTM,GRU,Attention and Neural Computation, Transformers, Variational AutoEncoders, GANs and Deep Reinforcement Learning
 - Paper reading and presentation sessions
-- Projects like : Sentiment Analysis with Naive Bayes Classifier : [Code](https://github.com/one2clouds/Sentiment-Analysis-with-naive-Bayes-Classifier/blob/main/Sentiment%20Analysis%20with%20Naive%20Bayes%20Classifier.ipynb), Visual Question Answering with BERT & ViT : [Code](https://github.com/one2clouds/visualquestionanswer/blob/main/vqa-fuse-project-v2.ipynb), [Music-Genre-Classification](https://github.com/one2clouds/Music-Genre-Classification/blob/main/bijaya_khadka_53_musicgenreclassification.pdf) : [Code](https://github.com/one2clouds/Music-Genre-Classification/blob/main/Final%20Notebook%20Fusemachines%20Project.ipynb)
+- Projects like : Sentiment Analysis with Naive Bayes Classifier : [Code](https://github.com/one2clouds/Sentiment-Analysis-with-naive-Bayes-Classifier/blob/main/Sentiment%20Analysis%20with%20Naive%20Bayes%20Classifier.ipynb), Visual Question Answering with BERT & ViT : [Code](https://github.com/one2clouds/visualquestionanswer/blob/main/vqa-fuse-project-v2.ipynb), [Music-Genre-Classification](https://github.com/one2clouds/Music-Genre-Classification/blob/main/musicgenreclassification.pdf) : [Code](https://github.com/one2clouds/Music-Genre-Classification/blob/main/Final%20Notebook%20Fusemachines%20Project.ipynb)
 
 #### Junior ML Engineer @ Omdena Nepali Chapter
 *July 2023 - Aug 2023*
@@ -36,11 +36,19 @@
 
 ---
 
-### Projects 
-FractureSegmentationModel 
-Retina Disease Classification for Glaucoma and Age-Related Macular Degeneration(AMD) 
-SpleenSegmentation Using-CNNs-for-the-lung-disease-from-Chest-X-ray-Images BrainTumorSegmentation(BRATS)
+### Articles 
+[EEG-GNN paper Analysis](https://medium.com/@shirshakacharya/basic-overview-of-research-paper-eeg-gnn-4ad232260a70)
+[Part Of Speech (POS)Tagging, Hidden Markov Models and Viterbi Algorithm](https://medium.com/@shirshakacharya/part-of-speech-pos-tagging-hidden-markov-models-and-viterbi-algorithm-e06d0f21b638)
+[Sentiment Analysis with Naive Bayes Classifier](https://medium.com/@shirshakacharya/sentiment-analysis-with-naive-bayes-classifier-d787051d7aca)
 
+### Certifications
+[Practical Data Science on AWS Cloud - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/GDT9UJRTCS5K)
+[Machine Learning - Coursera](https://www.coursera.org/account/accomplishments/certificate/LQ9QJE62V8W4)
+[Machine Learning Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/RCULBAPGEA6A)
+[Deep Learning Specialization - Coursera](https://www.credly.com/badges/7b5b6136-1d5a-42ee-a04b-fd92d22be1e4?source=linked_in_profile)
+
+
+### 
 ---
 
 # Education 

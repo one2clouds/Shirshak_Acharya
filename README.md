@@ -11,7 +11,7 @@
 - [MICCAI Challenge (Pengwin)](https://drive.google.com/file/d/1VDqs1GJ2pogpuzQsPmJt4SqvQxsYFYUb/view?usp=sharing) & [Code](https://github.com/one2clouds/FracSegnetOverall)
 - [Worked as a Teaching Assistant (TA) in Lab Sessions for Fifth Annual Nepal AI School (ANAIS) 2024 organized by NAAMII](https://drive.google.com/file/d/1ubdOubK8RiqIKNFq7kswWD2hPurhgJgc/view?usp=sharing)
 - Participated in Paper and Book Reading Sessions : [SemiViT](https://drive.google.com/file/d/1Z2n3Mui3RlDwOtl-MtDRZZBL_heOk_O5/view?usp=sharing), [EGDCL](https://drive.google.com/file/d/1XRp5mYU7pgOATJzFSP7kUsHSazLIDEF5/view?usp=sharing)
-- Project Based Learning (PBL) Training for GLaucoma CLassification from Fundus Images for Researchers [Link](https://drive.google.com/file/d/1NRcMyueSvv5nm9UPtZhudDE_fAPRFyut/view?usp=sharing)
+- Project Based Learning (PBL) Training for Glaucoma Classification from Fundus Images for Researchers [Link](https://drive.google.com/file/d/1NRcMyueSvv5nm9UPtZhudDE_fAPRFyut/view?usp=sharing)
 
 #### Research Intern @ NAAMII
 *Oct 2023 - July 2024*
@@ -32,7 +32,8 @@
 #### Junior ML Engineer @ Omdena Nepali Chapter
 *July 2023 - Aug 2023*
 - Contributor for the Local chapter project "Developing a Natural Language Toolkit for the Nepali Language"
-- Skills : Familiarity with NLP Models like BERT, GPT, T5. Concepts like Tokenization, Stemming, Lemmatization, stopwords removal in Nepali Language. Similarly, doing supervised text classification, zero-shot and few-shot text classification.
+- Skills : Familiarity with NLP Models like BERT, GPT, T5. Concepts like Tokenization, Stemming, Lemmatization, stopwords removal in Nepali Language. Similarly, doing supervised text classification, zero-shot and few-shot text classification. 
+- [Validated Certificates](https://verified.sertifier.com/en/verify/03052813244466/)
 
 ---
 

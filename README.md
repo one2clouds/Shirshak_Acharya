@@ -33,7 +33,7 @@
 *July 2023 - Aug 2023*
 - Contributor for the Local chapter project "Developing a Natural Language Toolkit for the Nepali Language"
 - Skills : Familiarity with NLP Models like BERT, GPT, T5. Concepts like Tokenization, Stemming, Lemmatization, stopwords removal in Nepali Language. Similarly, doing supervised text classification, zero-shot and few-shot text classification. 
-- [Validated Certificates](https://verified.sertifier.com/en/verify/03052813244466/)
+- [Links](https://verified.sertifier.com/en/verify/03052813244466/)
 
 ---
 

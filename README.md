@@ -59,7 +59,7 @@
 ---
 
 # Education 
-- **B.S., Electronics, Communication and Information Engineering**  
+- **Bachelors in Electronics, Communication and Information Engineering**  
   Tribhuvan University, Institute of Engineering, Thapathali Campus  
   *(Nov 2019 - Mar 2024, Kathmandu)*
 

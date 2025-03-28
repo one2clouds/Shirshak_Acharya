@@ -9,7 +9,7 @@
 *Aug 2024 - Feb 2025*
 - [Retina Disease Classification for Glaucoma and Age-Related Macular Degeneration(AMD)](https://drive.google.com/file/d/1R43kf6PAMLclFtDKPrSvQryl0owvMCop/view?usp=sharing) & [Code](https://github.com/one2clouds/BPEye_Project_2024) & [Inference Code using Docker](https://github.com/one2clouds/bpeye_inference_docker)
 - [MICCAI Challenge (Pengwin)](https://1drv.ms/p/c/bfeaeeeea11c95e5/Eel56qC1lg5Ov6KvG-lDGC8BfGKNJ7wxDCIdCtiSrDOZrg?e=YnPgXT) & [Code](https://github.com/one2clouds/FracSegnetOverall)
-- [Worked as a Teaching Assistant (TA) in Lab Sessions for Fifth Annual Nepal AI School (ANAIS) 2024 organized by NAAMII](https://drive.google.com/file/d/1ubdOubK8RiqIKNFq7kswWD2hPurhgJgc/view?usp=sharing)
+- [Worked as a Teaching Assistant (TA) in Lab Sessions for Fifth Annual Nepal AI School (ANAIS) 2024 organized by NAAMII](https://drive.google.com/file/d/1UnDL3WryowqZgzdCHdit7-CbYCrCxVbW/view?usp=sharing)
 - Participated in Paper and Book Reading Sessions : [SemiViT](https://drive.google.com/file/d/1Z2n3Mui3RlDwOtl-MtDRZZBL_heOk_O5/view?usp=sharing), [EGDCL](https://drive.google.com/file/d/1XRp5mYU7pgOATJzFSP7kUsHSazLIDEF5/view?usp=sharing)
 - Project Based Learning (PBL) Training for Glaucoma Classification from Fundus Images for Researchers [Link](https://drive.google.com/file/d/1NRcMyueSvv5nm9UPtZhudDE_fAPRFyut/view?usp=sharing)
 

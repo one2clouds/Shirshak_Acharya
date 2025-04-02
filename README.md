@@ -4,6 +4,10 @@
 
 ### Work Experience 
 
+#### Research Engineer @ Accelerated Komputing (AnK)
+*Mar 2025 - Present*
+- [Exploring about Teeth Segmentation with Intraoral 3D Scans](https://docs.google.com/presentation/d/1RJ-CDCK4R46FmbOgLnnGzpbqU1ZnbAD-chpnROpdTMg/edit?usp=sharing)
+- [Exploring about Segmentation of Tooth-Gingiva Marginal Line on Dental Surface]
 
 #### Research Assistant @ Nepal Applied Mathematics and Informatics Institute for research (NAAMII)
 *Aug 2024 - Feb 2025*

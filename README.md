@@ -11,7 +11,7 @@
 - [Dataset preprocessing for teeth reconstruction](https://github.com/one2clouds/Teeth-3DS-create-broken-tooth-for-crown-genetation)
 - [Code Development for crown surface reconstruction](https://github.com/one2clouds/DMC-for-inhouse-Customer-data)
 - [Explored about Teeth Segmentation with Intraoral 3D Scans](https://docs.google.com/presentation/d/1RJ-CDCK4R46FmbOgLnnGzpbqU1ZnbAD-chpnROpdTMg/edit?usp=sharing)
-- [Explored about Segmentation of Tooth-Gingiva Marginal Line on Dental Surface]
+- Explored about Segmentation of Tooth-Gingiva Marginal Line on Dental Surface
 
 #### Research Assistant @ Nepal Applied Mathematics and Informatics Institute for research (Naamii)
 *Aug 2024 - Feb 2025*
@@ -64,10 +64,15 @@
 
 ### PROJECTS
 • [Fracture Segmentation Model](https://github.com/one2clouds/FracSegnetOverall)
+
 • [Retina Disease Classification for Glaucoma and AMD](https://github.com/one2clouds/BPEye_Project_2024)
+
 • [Spleen Segmentation](https://github.com/one2clouds/3d-spleen-monai-pt-lightning)
+
 • [Scrap Detection Mechanism using Faster R-CNN](https://github.com/one2clouds/Thesis-Object-Detection-Code)
+
 • [CNN-based Lung Disease Classification from Chest X-ray](https://github.com/one2clouds/Using-CNNs-for-the-lung-disease-from-Chest-X-ray-Images)
+
 • [Brain Tumor Segmentation (BRATS)](https://github.com/one2clouds/3D-BRATS-MONAI)
 
 ---
@@ -98,7 +103,9 @@
 #### [TENSOR](https://tcioe.edu.np/campuslife/student_club/TENSOR)
 
 • Coordinator(Mar 2023 – Feb 2024)
+
 • Joint Secretary(June 2022 – Feb 2023)
+
 ---
 
 

@@ -2,22 +2,25 @@
 
 ---
 
-### Work Experience 
+### WORK EXPERIENCE 
 
-#### Research Engineer @ Accelerated Komputing (AnK)
+#### Foundational Research Engineer @ Accelerated Komputing (AnK)
 *Mar 2025 - Present*
-- [Exploring about Teeth Segmentation with Intraoral 3D Scans](https://docs.google.com/presentation/d/1RJ-CDCK4R46FmbOgLnnGzpbqU1ZnbAD-chpnROpdTMg/edit?usp=sharing)
-- [Exploring about Segmentation of Tooth-Gingiva Marginal Line on Dental Surface]
+- [Developed a DGCNN model projecting similar tooth surfaces closer together in vector space](https://github.com/one2clouds/Teeth_Similarity_Matching_Model_Preparation)
+- [Created a Teeth Similarity API](https://github.com/one2clouds/Teeth-Similarity-API-)
+- [Dataset preprocessing for teeth reconstruction](https://github.com/one2clouds/Teeth-3DS-create-broken-tooth-for-crown-genetation)
+- [Code Development for crown surface reconstruction](https://github.com/one2clouds/DMC-for-inhouse-Customer-data)
+- [Explored about Teeth Segmentation with Intraoral 3D Scans](https://docs.google.com/presentation/d/1RJ-CDCK4R46FmbOgLnnGzpbqU1ZnbAD-chpnROpdTMg/edit?usp=sharing)
+- [Explored about Segmentation of Tooth-Gingiva Marginal Line on Dental Surface]
 
-#### Research Assistant @ Nepal Applied Mathematics and Informatics Institute for research (NAAMII)
+#### Research Assistant @ Nepal Applied Mathematics and Informatics Institute for research (Naamii)
 *Aug 2024 - Feb 2025*
 - [Retina Disease Classification for Glaucoma and Age-Related Macular Degeneration(AMD)](https://drive.google.com/file/d/1R43kf6PAMLclFtDKPrSvQryl0owvMCop/view?usp=sharing) & [Code](https://github.com/one2clouds/BPEye_Project_2024) & [Inference Code using Docker](https://github.com/one2clouds/bpeye_inference_docker)
 - [MICCAI Challenge (Pengwin)](https://1drv.ms/p/c/bfeaeeeea11c95e5/Eel56qC1lg5Ov6KvG-lDGC8BfGKNJ7wxDCIdCtiSrDOZrg?e=YnPgXT) & [Code](https://github.com/one2clouds/FracSegnetOverall)
-- [Worked as a Teaching Assistant (TA) in Lab Sessions for Fifth Annual Nepal AI School (ANAIS) 2024 organized by NAAMII](https://drive.google.com/file/d/1UnDL3WryowqZgzdCHdit7-CbYCrCxVbW/view?usp=sharing)
 - Participated in Paper and Book Reading Sessions : [SemiViT](https://drive.google.com/file/d/1Z2n3Mui3RlDwOtl-MtDRZZBL_heOk_O5/view?usp=sharing), [EGDCL](https://drive.google.com/file/d/1XRp5mYU7pgOATJzFSP7kUsHSazLIDEF5/view?usp=sharing)
 - Project Based Learning (PBL) Training for Glaucoma Classification from Fundus Images for Researchers [Link](https://drive.google.com/file/d/1NRcMyueSvv5nm9UPtZhudDE_fAPRFyut/view?usp=sharing)
 
-#### Research Intern @ NAAMII
+#### Research Intern @ Naamii
 *Oct 2023 - July 2024*
 - Conducted Medical Image Semantic Segmentation on 3D volumes : [Brain Tumor Segmentation of 3D MRI volumes](https://drive.google.com/file/d/1UDdAN2txYHwTA1Fepz0_ST8rXgemCp1j/view?usp=sharing) & [Code From Library : MONAI](https://github.com/one2clouds/3D-BRATS-MONAI) & [Code using PyTorch](https://github.com/one2clouds/3D-Semantic-Segmentation)
 - [Medical Image Segmentation on 2D Images X-Ray Images : Lung Segmentation](https://drive.google.com/file/d/1KwKuywdhkvq7t1DnQKDtBUGCMj94t76Y/view?usp=sharing) & [Code](https://github.com/one2clouds/2D-Image-Semantic-Segmentation)
@@ -39,18 +42,38 @@
 - Skills : Familiarity with NLP Models like BERT, GPT, T5. Concepts like Tokenization, Stemming, Lemmatization, stopwords removal in Nepali Language. Similarly, doing supervised text classification, zero-shot and few-shot text classification. 
 - [Links](https://verified.sertifier.com/en/verify/03052813244466/)
 
----
-
-### Articles 
-[EEG-GNN paper Analysis](https://medium.com/@shirshakacharya/basic-overview-of-research-paper-eeg-gnn-4ad232260a70)
-
-[Part Of Speech (POS)Tagging, Hidden Markov Models and Viterbi Algorithm](https://medium.com/@shirshakacharya/part-of-speech-pos-tagging-hidden-markov-models-and-viterbi-algorithm-e06d0f21b638)
-
-[Sentiment Analysis with Naive Bayes Classifier](https://medium.com/@shirshakacharya/sentiment-analysis-with-naive-bayes-classifier-d787051d7aca)
 
 ---
 
-### Certifications
+### VOLUNTEERING 
+[Teaching Assistant at Annual Nepal AI School (ANAIS)](https://drive.google.com/file/d/1UnDL3WryowqZgzdCHdit7-CbYCrCxVbW/view?usp=sharing)
+
+[Instructor for technical workshop on AI in Healthcare (BP-Eye Foundation)](https://www.linkedin.com/feed/update/urn:li:activity:7295237684371894272/)
+
+[Hackathon Mentor at NASA Space Apps Challenge (NRCC)](https://www.facebook.com/nrccnepal/posts/-mentors-for-the-day-nasa-international-space-apps-challenge-kathmandu-2024we-ex/552092520521495/)
+
+---
+
+
+### EDUCATION 
+- **Bachelors in Electronics, Communication and Information Engineering**  
+  Tribhuvan University, Institute of Engineering, Thapathali Campus  
+  *(Nov 2019 - Mar 2024, Kathmandu)*
+
+---
+
+### PROJECTS
+• [Fracture Segmentation Model](https://github.com/one2clouds/FracSegnetOverall)
+• [Retina Disease Classification for Glaucoma and AMD](https://github.com/one2clouds/BPEye_Project_2024)
+• [Spleen Segmentation](https://github.com/one2clouds/3d-spleen-monai-pt-lightning)
+• [Scrap Detection Mechanism using Faster R-CNN](https://github.com/one2clouds/Thesis-Object-Detection-Code)
+• [CNN-based Lung Disease Classification from Chest X-ray](https://github.com/one2clouds/Using-CNNs-for-the-lung-disease-from-Chest-X-ray-Images)
+• [Brain Tumor Segmentation (BRATS)](https://github.com/one2clouds/3D-BRATS-MONAI)
+
+---
+
+
+### CERTIFICATIONS
 [Practical Data Science on AWS Cloud - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/GDT9UJRTCS5K)
 
 [Machine Learning - Coursera](https://www.coursera.org/account/accomplishments/certificate/LQ9QJE62V8W4)
@@ -62,11 +85,20 @@
 
 ---
 
-# Education 
-- **Bachelors in Electronics, Communication and Information Engineering**  
-  Tribhuvan University, Institute of Engineering, Thapathali Campus  
-  *(Nov 2019 - Mar 2024, Kathmandu)*
+### ARTICLES 
+[EEG-GNN paper Analysis](https://medium.com/@shirshakacharya/basic-overview-of-research-paper-eeg-gnn-4ad232260a70)
 
+[Part Of Speech (POS)Tagging, Hidden Markov Models and Viterbi Algorithm](https://medium.com/@shirshakacharya/part-of-speech-pos-tagging-hidden-markov-models-and-viterbi-algorithm-e06d0f21b638)
+
+[Sentiment Analysis with Naive Bayes Classifier](https://medium.com/@shirshakacharya/sentiment-analysis-with-naive-bayes-classifier-d787051d7aca)
+
+---
+
+### COMMUNITY EXPERIENCE
+#### [TENSOR](https://tcioe.edu.np/campuslife/student_club/TENSOR)
+• Coordinator(Mar 2023 – Feb 2024)
+• Joint Secretary(June 2022 – Feb 2023)
+---
 
 
 

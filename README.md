@@ -102,9 +102,8 @@
 ### COMMUNITY EXPERIENCE
 #### [TENSOR](https://tcioe.edu.np/campuslife/student_club/TENSOR)
 
-• Coordinator(Mar 2023 – Feb 2024)
-
-• Joint Secretary(June 2022 – Feb 2023)
+- Coordinator(Mar 2023 – Feb 2024)
+- Joint Secretary(June 2022 – Feb 2023)
 
 ---
 

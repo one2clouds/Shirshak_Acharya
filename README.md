@@ -2,6 +2,13 @@
 
 ---
 
+### VOLUNTEERING 
+- #### [Teaching Assistant at Annual Nepal AI School (ANAIS)](https://drive.google.com/file/d/1UnDL3WryowqZgzdCHdit7-CbYCrCxVbW/view?usp=sharing)
+- #### [Instructor for technical workshop on AI in Healthcare (BP-Eye Foundation)](https://www.linkedin.com/feed/update/urn:li:activity:7295237684371894272/)
+- #### [Hackathon Mentor at NASA Space Apps Challenge (NRCC)](https://www.facebook.com/nrccnepal/posts/-mentors-for-the-day-nasa-international-space-apps-challenge-kathmandu-2024we-ex/552092520521495/)
+
+---
+
 ### WORK EXPERIENCE 
 
 #### Foundational Research Engineer @ Accelerated Komputing (AnK)
@@ -42,16 +49,7 @@
 - #### Skills : Familiarity with NLP Models like BERT, GPT, T5. Concepts like Tokenization, Stemming, Lemmatization, stopwords removal in Nepali Language. Similarly, doing supervised text classification, zero-shot and few-shot text classification. 
 - #### [Links](https://verified.sertifier.com/en/verify/03052813244466/)
 
-
 ---
-
-### VOLUNTEERING 
-- #### [Teaching Assistant at Annual Nepal AI School (ANAIS)](https://drive.google.com/file/d/1UnDL3WryowqZgzdCHdit7-CbYCrCxVbW/view?usp=sharing)
-- #### [Instructor for technical workshop on AI in Healthcare (BP-Eye Foundation)](https://www.linkedin.com/feed/update/urn:li:activity:7295237684371894272/)
-- #### [Hackathon Mentor at NASA Space Apps Challenge (NRCC)](https://www.facebook.com/nrccnepal/posts/-mentors-for-the-day-nasa-international-space-apps-challenge-kathmandu-2024we-ex/552092520521495/)
-
----
-
 
 ### EDUCATION 
 - **Bachelors in Electronics, Communication and Information Engineering**  
